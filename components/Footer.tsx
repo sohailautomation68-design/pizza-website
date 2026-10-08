@@ -92,7 +92,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-gray-500 text-sm">
-            © {new Date().getFullYear()} Pizza Haven. All rights reserved.
+            &copy; 2026 Pizza Haven. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-gray-500">
             <Link href="#" className="hover:text-white transition-colors">Privacy Policy</Link>
